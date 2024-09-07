@@ -1,0 +1,1 @@
+create table messageus (name varchar(50) null,email varchar(50) null,message varchar(150) null);
